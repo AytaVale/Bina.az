@@ -1,0 +1,14 @@
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\bin\Debug\netcoreapp3.1\Bina.az.exe
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\bin\Debug\netcoreapp3.1\Bina.az.deps.json
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\bin\Debug\netcoreapp3.1\Bina.az.runtimeconfig.json
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\bin\Debug\netcoreapp3.1\Bina.az.runtimeconfig.dev.json
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\bin\Debug\netcoreapp3.1\Bina.az.dll
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\bin\Debug\netcoreapp3.1\Bina.az.pdb
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\obj\Debug\netcoreapp3.1\Bina.az.csproj.AssemblyReference.cache
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\obj\Debug\netcoreapp3.1\Bina.az.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\obj\Debug\netcoreapp3.1\Bina.az.AssemblyInfoInputs.cache
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\obj\Debug\netcoreapp3.1\Bina.az.AssemblyInfo.cs
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\obj\Debug\netcoreapp3.1\Bina.az.csproj.CoreCompileInputs.cache
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\obj\Debug\netcoreapp3.1\Bina.az.dll
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\obj\Debug\netcoreapp3.1\Bina.az.pdb
+C:\Users\NO12\Documents\Visual Studio 2019\Bina.az-master\Bina.az\obj\Debug\netcoreapp3.1\Bina.az.genruntimeconfig.cache
